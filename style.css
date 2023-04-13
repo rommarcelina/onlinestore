@@ -1,0 +1,47 @@
+.main_menu {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  height: 60px;
+}
+.main_menu h1 {
+  display: flex;
+  width: 33%;
+}
+.main_menu button {
+  width: 33%;
+}
+
+.best-products {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.best-products .first-product {
+  width: 50%;
+}
+.best-products .first-product img {
+  width: 100%;
+  height: 417px;
+}
+.best-products .second-Product {
+  width: 50%;
+}
+.best-products .second-Product img {
+  width: 100%;
+  height: 417px;
+}
+.best-products .third-product {
+  width: 50%;
+}
+.best-products .third-product img {
+  width: 100%;
+  height: 417px;
+}
+.best-products .fourth-product {
+  width: 50%;
+}
+.best-products .fourth-product img {
+  width: 100%;
+  height: 417px;
+}/*# sourceMappingURL=style.css.map */
