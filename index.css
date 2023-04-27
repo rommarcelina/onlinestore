@@ -1,3 +1,6 @@
+.main-container * {
+  font-family: "Open Sans", sans-serif;
+}
 .main-container .main_menu {
   display: flex;
   flex-direction: row;
@@ -7,9 +10,29 @@
 .main-container .main_menu h1 {
   display: flex;
   width: 33%;
+  margin-left: 20px;
 }
-.main-container .main_menu button {
-  width: 33%;
+.main-container img {
+  margin: 20px;
+}
+.main-container .abtUs {
+  padding: 15px;
+  text-decoration: none;
+}
+.main-container .jakDojechac {
+  padding: 15px;
+  text-decoration: none;
+}
+.main-container .menu {
+  padding: 15px;
+  text-decoration: none;
+}
+.main-container .blogMenu {
+  padding: 15px;
+  text-decoration: none;
+}
+.main-container .myBtn {
+  width: 20%;
 }
 .main-container .best-products {
   display: flex;
